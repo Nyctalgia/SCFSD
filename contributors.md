@@ -8,3 +8,5 @@
     * Ship Sprites
 * YT-0
     * New hornet asset
+* Zulu_Sauer
+    * Resized Ship Sprites
